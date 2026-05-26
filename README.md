@@ -4,10 +4,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarienRodriguez&show_icons=true&theme=react&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarienRodriguez&layout=donut-vertical&theme=react&border_radius=10" width="48%" />
+</p>
 
 ###
 

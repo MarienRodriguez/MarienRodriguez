@@ -4,14 +4,8 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarienRodriguez&show_icons=true&theme=react&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarienRodriguez&layout=donut-vertical&theme=react&border_radius=10" width="48%" />
-</p>
+<img width="470" height="281" alt="image" src="https://github.com/user-attachments/assets/6d835f6c-4d7c-4efd-b932-0acb37ac2195" /> <img width="438" height="281" alt="image" src="https://github.com/user-attachments/assets/173228cd-b7bb-40c9-9509-61c0018d78d8" />
 
-###
-
-<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/6d835f6c-4d7c-4efd-b932-0acb37ac2195" />
 
 
 ###
@@ -20,15 +14,21 @@
   <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/97b42f21-dffb-4984-9f51-702304b36aec" />
   <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/1aa5907b-1931-4c3f-8e68-01b6b1bef777" />
   <img width="130" height="130" alt="image" src="https://ih1.redbubble.net/image.523121268.4200/raf,360x360,075,t,fafafa:ca443f4786.u7.jpg"  />
+  <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/50f576d1-2d07-4f07-8f6f-fbe92f70d64a" /> 
+  <img width="205" height="130" alt="image" src="https://github.com/user-attachments/assets/959d365a-396d-4e31-8247-997198fb1e66" />
+
+
 </div>
+
+###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarienRodriguez&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats) <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a74e8e39-a6d0-4def-a901-304d043a06b9" />
 
 
 ###
 
-<div>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-</div>
+
+<img width="1200" height="690" alt="image" src="https://github.com/user-attachments/assets/937ac793-1bcd-45d1-aab1-79367c0605c2" />
+
 
 ###

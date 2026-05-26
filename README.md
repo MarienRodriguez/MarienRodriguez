@@ -25,7 +25,7 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarienRodriguez&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats) <img width="350" height="190" alt="image" src="https://github.com/user-attachments/assets/a74e8e39-a6d0-4def-a901-304d043a06b9" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarienRodriguez&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats) <img width="330" height="190" alt="image" src="https://github.com/user-attachments/assets/a74e8e39-a6d0-4def-a901-304d043a06b9" />
 
 
 ###
